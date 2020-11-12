@@ -1,3 +1,4 @@
+//Brute Force Solution
 //TC: O(n)
 //SC: O(1)
 //Explanation: compared current element with previous and next element to find if current index is peak //or not
